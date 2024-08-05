@@ -18,6 +18,10 @@ This template is created for the purpose of setting up a new Vue 3 project with 
 
 - [Composition APIs auto import](https://github.com/unplugin/unplugin-auto-import)
 
+- [Axios](https://axios-http.com/)
+
+- [Tanstack Vue Query](https://tanstack.com/query/latest/docs/framework/vue/overview)
+
 ### UI Libraries
 
 - [Shadcn Vue](https://www.shadcn-vue.com/)
